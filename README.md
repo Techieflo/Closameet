@@ -11,7 +11,7 @@ An Online community application with flutter
 ## ScreenShots
 # -   Sign up 
 
-![](images/signup.png)
+![](https://github.com/Techieflo/chatapp/tree/master/images/signup.png)
 
 # -   Sign In 
 
